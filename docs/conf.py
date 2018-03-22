@@ -24,9 +24,9 @@ copyright = '2018, Aitor GONZALEZ'
 author = 'Aitor GONZALEZ'
 
 # The short X.Y version
-version = ''
+version = '0.9.0'
 # The full version, including alpha/beta/rc tags
-release = '0.9.0'
+release = version
 
 
 # -- General configuration ---------------------------------------------------
