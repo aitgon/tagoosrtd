@@ -14,7 +14,6 @@ TAGOOS : associated tag SNP boosting
    content/ucsc
    content/scores
    content/download
-   content/developers
 
 Indices and tables
 ====================
