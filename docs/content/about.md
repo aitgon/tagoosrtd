@@ -10,8 +10,6 @@ The TAGOOS scores can be accessed here:
 - Downloading annotation bed files
 - Without downloading the files through the TABIX software 
 
-**Citation**: Prediction of non-coding loci associated to complex phenotypes. Journal of Incredible Results.
-
 ![UCSC browser screenshot](../img/hgt_genome_c06_b187d0.png "Logo Title Text 1")
 *UCSC browser screen shot of the rs227727 locus (hg19/chr17:54774450-54779459) with the negative log 10 of the p-value and the annotations.*
 
