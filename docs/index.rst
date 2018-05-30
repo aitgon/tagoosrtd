@@ -23,6 +23,11 @@ TAGOOS is a nucleotide scoring tool for non-coding (Intronic and intergenic) reg
 - `RoadMap <href="http://www.roadmapepigenomics.org/>`_
 - `H3K27ac from the Young lab <href="http://www.cell.com/abstract/S0092-8674(13)01227-0>`_
 
+The scores can be `downloaded <content/download.html>`_ or accessed remotely using:
+
+- `UCSC (Remote) <content/ucsc.html>`_
+- `Tabix (Remote and local) <content/scores.html>`_
+
 Indices and tables
 ====================
 
